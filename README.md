@@ -46,12 +46,11 @@ This project builds a classification model to predict whether an employee will l
 ## 📁 Folder Structure
 
 Employee-Attrition-Prediction/
-│
-├── notebook.ipynb # Main notebook
-├── dataset/ 
-├── images/ 
-├── requirements.txt 
-└── README.md 
+- notebook.ipynb # Main notebook
+- dataset/ 
+- images/ 
+- requirements.txt 
+- README.md 
 
 ## 🚀 How to Run
 
